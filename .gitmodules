@@ -1,0 +1,6 @@
+[submodule "components/engine"]
+	path = components/engine
+	url = git://github.com/corbin-coleman/moby
+[submodule "components/cli"]
+	path = components/cli
+	url = git://github.com/corbin-coleman/cli
